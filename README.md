@@ -10,16 +10,19 @@ Aspiring Python Developer with a robust academic foundation in Computer Science 
   St.Thomas College of Engineering and Technology, Chengannur, Kerala
 
 ## Professional Experience
+**Independent Project Contributor | Python Developer | Tech Blogger**  
+Open Source Contributor | Pathanamthitta, Kerala  
+September 2020 - March 2021  
+- Continued upskilling through online courses and certifications in Web Development, SAP ERP and Cybersecurity.
+- Worked on independent projects like Symptom-disease Healthcare chatbot and GenAI VerseCraft Creating Shakespearean Sonnets with AI to strengthen technical expertise.
+- Wrote technical blogs on topics like AI, cybersecurity, and data science to build knowledge and contribute to the tech community.
+- Completed online courses and certifications in Python, React.js, Django, SQL and Data Analysis to enhance skills.
+
 **Software Engineer Trainee (Internship)**  
 Quest Innovative Solutions Private Limited | Ernakulam, Kerala  
 September 2020 - March 2021  
 - Developed a web application using Python - Django framework, implementing full stack web development principles. Successfully executed a series of unit tests on the existing application, resulting in an impressive 80% increase in test coverage.
 - Engineered and optimized REST API endpoints utilizing SQL and Python, leading to a notable 30% reduction in response time. This enhancement significantly improved system efficiency and contributed to a 40% enhancement in overall application functionality.
-
-## Professional Development
-**Internship Experience and Hands-On Projects** (April 2021 - February 2022)
-- Demonstrated exceptional problem-solving skills and creativity through hands-on projects, including the development of a Stock Management System using Python and an Employee Task Tracking and Rating System.
-- Actively pursued continuous learning and skill enhancement, completing certifications in Python Full Stack Web Developer, Career Essentials in Software Development, and Docker Essentials.
 
 **Medical Leave** (March 2022 - May 2023)
 - Underwent Rhinoplasty surgery, necessitating a prolonged recovery period to ensure a successful recuperation. During this time, I prioritized physical well-being and recovery, demonstrating resilience and determination in overcoming personal challenges.
@@ -34,7 +37,7 @@ September 2020 - March 2021
 - Phone: +91-8111833958
 
 ## Skills
-- Programming Languages: Python, PHP, JavaScript, C, C++, Java
+- Programming Languages: Python, JavaScript, C#
 - Web Development: HTML, CSS, jQuery, Flask, Django, RESTful API, ReactJS, Odoo
 - Database Management: MySQL, SQLite, PostgreSQL
 - Testing and QA: Pytest, Selenium, Test Automation
@@ -57,13 +60,36 @@ September 2020 - March 2021
   - Technologies Used: C, JavaScript, MySQL, MQTT Protocol
 
 ## Certifications
-- Python Full Stack Web Developer - QIS Academy
-- Career Essentials in Software Development – Microsoft and LinkedIn
-- Complete Python Developer Certification - Udemy
-- REST APIs with Flask and Python – Udemy
-- Docker Essentials – IBM Developer Skills Network
-- Containers and Kubernetes Essentials – IBM Developer Skills Network
-- Selenium WebDriver with Python – TestAutomationU
+
+**Software Development & Data Analysis:** 
+- Python Full Stack Web Developer | QIS Academy | March 2021
+- React : The Complete Guide | Udemy | January 2022
+- Data Analytics and Visualization Using Python | IBM Developer Skills Network | September 2023
+- Career Essentials in Software Development | Microsoft & LinkedIn | December 2023
+  
+**Machine Learning & AI: **
+- Machine Learning with Python | IBM Developer Skills Network | September 2023
+- Deep Learning using TensorFlow | IBM Developer Skills Network | June 2024
+  
+**IT Support & Cybersecurity: **
+- Certificate of Cloud Security Knowledge | Cybrary | June 2024
+- Certified Cloud Security Professional |  Cybrary | June 2024
+- CompTIA Security+ | Cybrary | June 2024
+- Penetration Testing and Ethical Hacking | Cybrary | June 2024
+- IT Fundamentals | Cybrary | January 2025
+- CompTIA Network+ | Cybrary | February 2025
+- Cybersecurity Fundamentals | Cybrary | February 2025
+  
+**Enterprise Resource Planning (ERP) & SAP: **
+- SAP S/4HANA Course 2025 | Udemy | January 2025
+- 
+**Office, Admin & Project Tools: **
+- Excel for Beginners, Intermediate, Tips and Tricks, Regression Analysis | Great Learning | July 2023
+- VLOOKUP in Excel | Great Learning | July 2023
+- Jira Project Management | Great Learning | July 2023
+- Human Resource Management |  Great Learning | July 2023
+- Product Life Cycle Management | Great Learning | July 2023
+- Google Analytics Certification | Great Learning | January 2024
 
 ## Interests
 - Tech Blogging / Technical Content Writing
