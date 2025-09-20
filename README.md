@@ -27,12 +27,6 @@ Currently exploring **GenAI, Cybersecurity, and Cloud-native applications**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shibino-developer&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibino-developer&layout=compact&theme=tokyonight)  
-
----
-
 ## 🏆 Achievements
 - 🥇 **IBM & Microsoft Certified** in Python, ML, and Cloud Security  
 - 🐍 Built 25+ Python projects (AI, Web, Security, Automation)  
