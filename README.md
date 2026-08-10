@@ -1,40 +1,191 @@
-# 👋 Hi, I’m Shibino P Abraham  
+# 👋 Hi, I'm Shibino P Abraham
 
-🚀 **Python/Django Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**  
+### 🐍 Python Developer | Backend Developer | AI/ML Engineer
 
-I love building **scalable web apps**, experimenting with **AI/ML models**, and contributing to the **open-source community**.  
-Currently exploring **GenAI, Cybersecurity, and Cloud-native applications**.  
+I'm a **Computer Science & Engineering graduate** passionate about building backend systems, REST APIs, and AI-powered applications using Python.
+
+I enjoy turning ideas into practical software — from **Django REST APIs and PostgreSQL applications** to **LLM and RAG-based systems**.
+
+---
+
+## 🚀 What I Do
+
+* 🐍 Build applications with **Python**
+* 🌐 Develop REST APIs using **Django & Django REST Framework**
+* 🗄️ Work with **PostgreSQL, MySQL & SQLite**
+* 🤖 Build **AI/ML applications**
+* 🧠 Develop **LLM & RAG applications**
+* 🔎 Work with **embeddings, vector databases & semantic search**
+* ⚡ Explore **FastAPI & Flask**
+* 🐳 Learn and apply **Docker & deployment**
+* 🔧 Use **Git & GitHub** for version control
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C#  
-- **Frameworks:** Django, Flask, React, REST APIs, Odoo  
-- **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools & DevOps:** Docker, Kubernetes, Git, CI/CD  
-- **Cloud:** AWS | Azure | GCP  
-- **Testing:** Pytest, Selenium  
+
+### Programming
+
+`Python` `JavaScript` `SQL` `HTML` `CSS`
+
+### Backend
+
+`Django` `Django REST Framework` `FastAPI` `Flask`
+
+### AI / ML
+
+`Machine Learning` `Scikit-learn` `TensorFlow` `NLP` `LLMs` `RAG`
+
+### Generative AI
+
+`LangChain` `LlamaIndex` `FAISS` `ChromaDB` `Hugging Face` `Gemini`
+
+### Databases
+
+`PostgreSQL` `MySQL` `SQLite`
+
+### Tools & Deployment
+
+`Git` `GitHub` `Docker` `GitHub Actions` `Streamlit`
 
 ---
 
 ## 📌 Featured Projects
-🔹 [**CancerTrackEDC**]([link](https://github.com/shibino-developer/CancerTrackEDC)) – Cancer detection & patient management platform (Django + React + Selenium)  
-🔹 [**Symptom Disease Chatbot**]([link](https://github.com/shibino-developer/healthcare_chatbot)) – AI-powered chatbot for healthcare assistance  
-🔹 [**GenAI VerseCraft**](https://github.com/shibino-developer/ai-generated-poetry) – Generative AI project creating Shakespearean sonnets  
 
+### 🧠 Document Analysis using LLMs & RAG
 
-➡️ *More projects on my [Portfolio Website](https://shibino-developer.github.io/Portfolio-Website/)*  
+An end-to-end RAG application that allows users to upload documents and ask questions based on their content.
+
+**Technologies:**
+
+`Python` `RAG` `LLMs` `FAISS` `Hugging Face` `BM25` `Cross-Encoder` `Gemini` `Streamlit`
+
+**Pipeline:**
+
+```text
+Documents
+   ↓
+Text Cleaning
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+FAISS
+   ↓
+Hybrid Retrieval
+   ↓
+Reranking
+   ↓
+Prompt Building
+   ↓
+Gemini
+   ↓
+Grounded Answer
+```
 
 ---
 
-## 🏆 Achievements
-- 🥇 **IBM & Microsoft Certified** in Python, ML, and Cloud Security  
-- 🐍 Built 25+ Python projects (AI, Web, Security, Automation)  
-- 🌍 Open source contributor on GitHub  
+### 🏥 Clinic Appointment Booking API
+
+A RESTful backend API for managing doctors, patients, and clinic appointments.
+
+**Technologies:**
+
+`Python` `Django` `Django REST Framework` `PostgreSQL` `JWT` `Render`
+
+**Features:**
+
+* JWT authentication
+* RESTful APIs
+* CRUD operations
+* PostgreSQL database
+* Data validation
+* Appointment management
+* API testing
+* Cloud deployment
+
+---
+
+### 🐞 Bug Tracking System
+
+A backend application designed to manage software bugs, issues, and their status throughout the development lifecycle.
+
+**Technologies:**
+
+`Python` `Django` `PostgreSQL` `REST API`
+
+---
+
+## 🎯 Currently Focused On
+
+```text
+Python
+   ↓
+Backend Development
+   ↓
+Django / DRF
+   ↓
+REST APIs
+   ↓
+PostgreSQL
+   ↓
+AI / ML
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+Production AI Applications
+```
+
+I'm continuously improving my knowledge in:
+
+* Backend architecture
+* API development
+* Data structures & algorithms
+* System design
+* Machine learning
+* Generative AI
+* LLM application development
+* RAG architecture
+* Deployment & DevOps
+
+---
+
+## 📚 What I'm Learning
+
+* Advanced Python
+* Django & DRF
+* FastAPI
+* System Design
+* Docker
+* CI/CD
+* Cloud deployment
+* LLM application development
+* RAG optimization
+* AI agents
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently interested in opportunities such as:
+
+**Python Developer • Backend Developer • Django Developer • AI/ML Engineer • Generative AI Engineer • LLM/RAG Engineer • Software Developer**
+
+I'm particularly interested in opportunities where I can contribute to real-world software and continue growing as a backend and AI engineer.
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio](https://shibino-developer.github.io/Portfolio-Website/)  
-- 💼 [LinkedIn](https://linkedin.com/in/shibinoabraham)  
-- ✉️ shibino.pa@gmail.com  
+
+**LinkedIn:** [linkedin.com/in/shibinoabraham](https://linkedin.com/in/shibinoabraham)
+
+**GitHub:** [github.com/shibino-developer](https://github.com/shibino-developer)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
